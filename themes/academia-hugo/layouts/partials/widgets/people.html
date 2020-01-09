@@ -41,8 +41,8 @@
       {{with $link}}<a href="{{.}}">{{end}}<img class="portrait" src="{{ $src }}" alt="Avatar">{{if $link}}</a>{{end}}
     {{ end }}
 
-    <div class="portrait-title">
-      <h2>{{with $link}}<a href="{{.}}">{{end}}{{ .Params.name }}{{if $link}}</a>{{end}}</h2>
+    <div class="section-heading text-center">
+      <h1>{{with $link}}<a href="{{.}}">{{end}}{{ .Params.name }}{{if $link}}</a>{{end}}</h1>
       {{ with .Params.role }}<h3>{{ . | markdownify | emojify }}</h3>{{ end }}
       {{ with .Params.interests }}<p class="people-interests">{{ delimit . ", " | markdownify | emojify }}</p>{{ end }}
     </div>
