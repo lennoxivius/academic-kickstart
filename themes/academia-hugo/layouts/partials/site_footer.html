@@ -10,13 +10,13 @@
         {{ end }}
         <p>
           {{ with site.Copyright }}{{ replace . "{year}" now.Year | markdownify}} &middot; {{ end }}
-          Powered by
+          <!-- Powered by
           <a href="https://themefisher.com" target="_blank" rel="noopener">themefisher</a> for
-          <a href="https://gohugo.io" target="_blank" rel="noopener">Hugo</a>.
+          <a href="https://gohugo.io" target="_blank" rel="noopener">Hugo</a>. -->
         </p>
       </div>
       <div class="col-md-6">
-        <ul class="list-inline network-icon text-right">
+        <!-- <ul class="list-inline network-icon text-right">
           {{/* Contact links. */}}
           {{ range site.Params.contact_links }}
           {{ $pack := or .icon_pack "fas" }}
@@ -36,7 +36,7 @@
             <a href="{{ $link | safeURL }}" {{ $target | safeHTMLAttr }} title="{{.name}}"><i class="{{ $pack }} {{ $pack_prefix }}-{{ .icon }}" aria-hidden="true"></i></a>
           </li>
           {{ end }}
-        </ul>
+        </ul> -->
       </div>
     </div>
   </div>
