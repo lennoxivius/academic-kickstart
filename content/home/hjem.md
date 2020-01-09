@@ -59,6 +59,12 @@ label = "Pilotprojekt"
 url = "#kontakt"
 label = "Kontakt"
 
-+++## My name is **Michael some** and I'm a **Professor** specializing in **Artificial Intelligence**
++++## Velkommen til **Aktivitetsbuffet.dk!**
 
-Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC.
+Målet er at skabe en hjemmeside med beskrivelser og aktivitetsanalyser af et bredt udvalg af aktiviteter som de foregår på de danske plejehjem.
+
+Formålet er at dele viden og erfaring om aktiviteters potentiale, for at øge trivsel og glæde i hverdagen for både personale og beboere.
+
+Kan det lade sig gøre? Det skal et pilotprojekt svare på.
+
+Aktivitetsbuffet.dk er et privatfinansieret, ikke-kommercielt projekt, startet af en nysgerrig [Ergoterapeut](#hvemstaarbag "Hvem står bag?").

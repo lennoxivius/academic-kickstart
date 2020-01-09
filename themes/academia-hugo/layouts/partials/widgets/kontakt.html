@@ -12,6 +12,18 @@
     {{ with $page.Content }}<p>{{ . | markdownify }}</p>{{ end }}
   </div>
   <div class="col-md-6">
+    <p>Har du spørgsmål eller kommentarer til projektet?</p>
+    <p>Vil du gerne vide mere om hvordan jeres plejehjem kan deltage i projektet?</p>
+    <p>Så send os en email - Vi ser frem til at høre fra dig :-)</p>
+    <ul class="fa-ul" itemscope>
+     
+      <li>
+        <i class="fa-li fas fa-envelope mt-2" aria-hidden="true"></i>
+        <span id="person-email" itemprop="email">
+          <a href="mailto:klaus@aktivitetsbuffet.dk">klaus@aktivitetsbuffet.dk</a>
+        </span>
+      </li>
+      </ul>
     {{ if $page.Params.email_form }}
 
     {{ $post_action := "" }}
@@ -48,7 +60,7 @@
     {{end}}
 
   </div>
-  <div class="col-md-6">
+  <!-- <div class="col-md-6">
     <ul class="fa-ul" itemscope>
       {{ if and site.Params.email (not $page.Params.email_form) }}
       <li>
@@ -92,18 +104,8 @@
       {{ end }}
 
     </ul>
-  </div>
+  </div> -->
   <div class="col-12">
-    {{ if site.Params.map }}
-    <div class="d-none">
-      <input id="map-provider" value="{{ site.Params.map }}">
-      <input id="map-lat" value="{{ site.Params.latitude }}">
-      <input id="map-lng" value="{{ site.Params.longitude }}">
-      <input id="map-dir" value="{{ site.Params.address }}">
-      <input id="map-zoom" value="{{ site.Params.zoom | default "15" }}">
-      <input id="map-api-key" value="{{ site.Params.map_api_key }}">
-    </div>
-    <div id="map"></div>
-    {{ end }}
+   
   </div>
 </div>

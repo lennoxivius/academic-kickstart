@@ -1,0 +1,34 @@
+{{ $ := .root }} {{ $page := .page }}
+
+<div class="row">
+  <!-- Experience widget -->
+  <div class="col-12 text-center section-heading">
+    <h1>{{ with $page.Title }}{{ . | markdownify }}{{ end }}</h1>
+    {{ with $page.Params.subtitle }}
+    <p>{{ . | markdownify }}</p>
+    {{ end }} {{ with $page.Content }}
+    <p>{{ . | markdownify }}</p>
+    {{ end }}
+  </div>
+  <div class="col-md-6">
+    <p class="lead">
+      Klaus Brinch, ergoterapeut og webudvikler.
+    </p>
+
+    <p>
+      Min motivationen er interesse for udviklingsarbejde, ergoterapifaget, samt
+      ønsket om at udbrede viden og erfaring om aktivitetslivet på vores
+      plejehjem. Jeg er uddannet ergoterapeut i 2014 og har derudover
+      beskæftiget mig med IT og internettet i 15 år.
+      <p>Til dette projekt sparrer jeg med en dygtig og erfaren projektleder fra Gladsaxe kommune</p>
+    </p>
+    <p class="lead">
+      Projektleder, Gladsaxe kommune.
+    </p>
+    <p>beskrivelse...</p>
+  </div>
+  {{ if $page.Params.experience }} {{ $exp_len := len $page.Params.experience }}
+  {{ range $idx, $key := sort $page.Params.experience ".date_start" "desc" }}
+  <div class="col-md-6 col-lg-4 mb-4"></div>
+  {{end}} {{end}}
+</div>
