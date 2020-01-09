@@ -34,16 +34,6 @@
       {{ end }}
     {{ end }}
 
-    {{/* Maps JS. */}}
-    {{ if eq site.Params.map 1 }}
-      <script async defer src="//maps.googleapis.com/maps/api/js?key={{ site.Params.map_api_key }}"></script>
-      {{ if ($scr.Get "use_cdn") }}
-      {{ printf "<script src=\"%s\" integrity=\"%s\" crossorigin=\"anonymous\"></script>" (printf $js.gmaps.url $js.gmaps.version) $js.gmaps.sri | safeHTML }}
-      {{ end }}
-    {{ else if and (or (eq site.Params.map 2) (eq site.Params.map 3)) ($scr.Get "use_cdn") }}
-      {{ printf "<script src=\"%s\" integrity=\"%s\" crossorigin=\"anonymous\"></script>" (printf $js.leaflet.url $js.leaflet.version) $js.leaflet.sri | safeHTML }}
-    {{ end }}
-
     {{/* Comments JS. */}}
     {{ $comments_enabled := and site.DisqusShortname (not (or site.Params.disable_comments $.Params.disable_comments)) }}
     {{ if and $comments_enabled (site.Params.comment_count | default true) }}
