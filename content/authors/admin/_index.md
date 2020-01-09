@@ -85,7 +85,7 @@ Beskrive og lave aktivitetsanalyse af 1-2 aktiviteter på 3 forskellige plejehje
 
 #### Form
 
-Der laves aftaler om besøg og deltagelse i 1-2 aktiviteter på 3 forskellige plejehjem. For hver aktivitet udarbejder jeg en aktivitetsanalyse med følgende indhold (forslag)
+Der laves aftaler om besøg og deltagelse i 1-2 aktiviteter på 3 forskellige plejehjem. For hver aktivitet udarbejder jeg en aktivitetsanalyse med følgende indhold
 
 1. kort beskrivelse af aktiviteten, som den udføres lokalt på plejehjemmet
 2. antal deltagere
@@ -95,17 +95,24 @@ Der laves aftaler om besøg og deltagelse i 1-2 aktiviteter på 3 forskellige pl
 6. formål
 7. oplevet udbytte for beboeren
 8. gode råd til implementering på andre plejehjem
+9. plejehjemmets egne noter om aktiviteten?
 
-#### Fremgangsmåde på de deltagende plejehjem (forslag)
+#### Fremgangsmåde på de deltagende plejehjem
+
+Nedeenstående er kun et forslag og tilrettelægges i samråd med det enkelte plejehjem.
 
 1. kort indledende møde, hvor projektet fremlægges. (15min)
-2. Jeg deltager i valgt aktivitet og udarbejder en aktivitetsanalyse
+2. Jeg deltager i valgt aktivitet og udarbejder en aktivitetsanalyse.
 3. personalet der står for aktiviteten, fortæller om formål og udbytte for beboeren.
-4. evalueringsmåde hvor aktivitetsanalysen af den valgte aktivitet gennemgåes, samt vurdering af om aktivitetsanalyser fra de to andre deltagende plejehjem kan bruges lokalt - er der nok information om aktiviteten og er det brugbart for alle faggrupper.(45min)
+4. evalueringsmøde hvor aktivitetsanalysen af den valgte aktivitet gennemgåes, samt vurdering af om aktivitetsanalyser fra de to andre deltagende plejehjem kan bruges lokalt - er der nok information om aktiviteten og er det brugbart for alle faggrupper.(45min)
 
-Det er vigtigt at understrege at der ikke publiceres noget som helst om de deltagende plejehjem, beboerne eller aktiviteterne, hverken online, offline eller mundligt. Pilotprojektets data bruges udelukkende til at vurdere om der er grundlag for at gå videre med projektet og udarbejde en hjemmeside med aktiviteter fra flere plejehjem. Jeg har tavshedspligt som ergoterapeut og den vægter jeg højt. Samtidig er jeg opmærksom på at mine besøg er nøje tilrettelagt, så der ikke går så lidt tid som muligt, fra plejehjemmenes kerneopgave.
+#### Databeskytelse og tavshedspligt
 
-### Tidsplan
+Det er vigtigt at understrege at der ikke publiceres noget om de deltagende plejehjem, beboerne eller aktiviteterne, hverken online, offline eller mundligt til tredjepart.
+
+Pilotprojektets data bruges udelukkende til at vurdere, om der er grundlag for at gå videre med projektet og udarbejde en offentlig tilgængelig hjemmeside med aktiviteter fra flere plejehjem. Jeg har tavshedspligt som ergoterapeut og den vægter jeg højt. Samtidig er jeg opmærksom på at mine besøg er nøje tilrettelagt, så der går så lidt tid som muligt, fra plejehjemmenes kerneopgave.
+
+#### Tidsplan
 
 Pilotprojektet søges gennemført i første halvår, 2020
 
