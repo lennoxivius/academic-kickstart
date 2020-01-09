@@ -65,6 +65,6 @@ Målet er at skabe en hjemmeside med beskrivelser og aktivitetsanalyser af et br
 
 Formålet er at dele viden og erfaring om aktiviteters potentiale, for at øge trivsel og glæde i hverdagen for både personale og beboere.
 
-Kan det lade sig gøre? Det skal et pilotprojekt svare på.
+Er det realistisk? Det skal et pilotprojekt i 2020 svare på.
 
 Aktivitetsbuffet.dk er et privatfinansieret, ikke-kommercielt projekt, startet af en nysgerrig [Ergoterapeut](#hvemstaarbag "Hvem står bag?").
