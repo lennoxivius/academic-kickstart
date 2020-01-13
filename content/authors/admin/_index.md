@@ -76,16 +76,16 @@ user_groups:
 
 #### Formål: Svare på disse to spørgsmål
 
-1. Kan de deltagende plejehjem se en værdi i projektet for deres beboere og personale?
+1. Kan du deltagende plejehjem se en værdi i at få en eller flere af deres aktiviteter dokumenteret, for deres beboere og personale?
 2. Kan man udforme en aktivitetsanalyse, der kan bruges af plejepersonale, terapeuter, ledere samt frivillige til at vurdere en aktivitets potentiale lokalt?
 
 #### Metode
 
-Beskrive og lave aktivitetsanalyse af 1-2 aktiviteter på 3 forskellige plejehjem. De deltagende plejehjem vurderer udfra aktivitetsanalyse af aktiviteter fra de andre plejehjem, om den konkrete aktivitet kan bruges hos dem.
+Lave aktivitetsanalyse og dokumentere 1-2 aktiviteter på 3 forskellige plejehjem.
 
 #### Form
 
-Der laves aftaler om besøg og deltagelse i 1-2 aktiviteter på 3 forskellige plejehjem. For hver aktivitet udarbejder jeg en aktivitetsanalyse med følgende indhold
+Der laves aftaler om besøg og deltagelse i 1-2 aktiviteter på 3 forskellige plejehjem. For hver aktivitet udarbejder jeg en aktivitetsanalyse med følgende faste elementer, samt jeres forslag til indhold:
 
 1. kort beskrivelse af aktiviteten, som den udføres lokalt på plejehjemmet
 2. antal deltagere
@@ -101,20 +101,24 @@ Der laves aftaler om besøg og deltagelse i 1-2 aktiviteter på 3 forskellige pl
 
 Nedeenstående er kun et forslag og tilrettelægges i samråd med det enkelte plejehjem.
 
-1. kort indledende møde, hvor projektet fremlægges. (15min)
-2. Jeg deltager i valgt aktivitet og udarbejder en aktivitetsanalyse.
-3. personalet der står for aktiviteten, fortæller om formål og udbytte for beboeren.
-4. evalueringsmøde hvor aktivitetsanalysen af den valgte aktivitet gennemgåes, samt vurdering af om aktivitetsanalyser fra de to andre deltagende plejehjem kan bruges lokalt - er der nok information om aktiviteten og er det brugbart for alle faggrupper.(45min)
+1. Kort indledende besøg, hvor projektet fremlægges - kan konbineres med næste punkt.
+2. Jeg deltager i valgt aktivitet og får information om formål og udbytte for deltagerne.
+3. Jeg udarbejder en aktivitetsanalyse af valgt aktivitet.
+4. Vi mødes igen, hvor i vurderer om aktivitetsanalysen passer med jeres opfattelse af aktiviteten og om den kan bruges lokalt.
 
 #### Databeskytelse og tavshedspligt
 
-Det er vigtigt at understrege at der ikke publiceres noget om de deltagende plejehjem, beboerne eller aktiviteterne, hverken online, offline eller mundligt til tredjepart.
+Det er vigtigt at understrege at der ikke publiceres noget om de deltagende plejehjem, beboerne eller aktiviteterne.
+Pilotprojektets data bruges udelukkende til at vurdere, om der er grundlag for at gå videre med projektet.
 
-Pilotprojektets data bruges udelukkende til at vurdere, om der er grundlag for at gå videre med projektet og udarbejde en offentlig tilgængelig hjemmeside med aktiviteter fra flere plejehjem. Jeg har tavshedspligt som ergoterapeut og den vægter jeg højt. Samtidig er jeg opmærksom på at mine besøg er nøje tilrettelagt, så der går så lidt tid som muligt, fra plejehjemmenes kerneopgave.
-
-#### Tidsplan
+#### Tidsplan og status
 
 Pilotprojektet søges gennemført i første halvår, 2020
+
+##### Status
+
+9/1 2020: 3 plejehjem kontaktet for deltagelse i projektet.
+10/1 2020: Første besøg og deltagelse i aktivitet gennemført. Besøges igen d. 20/1.
 
 #### Evaluering af pilotprojekt
 
