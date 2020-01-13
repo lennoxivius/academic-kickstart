@@ -76,7 +76,7 @@ user_groups:
 
 #### Formål: Svare på disse to spørgsmål
 
-1. Kan du deltagende plejehjem se en værdi i at få en eller flere af deres aktiviteter dokumenteret, for deres beboere og personale?
+1. Kan de deltagende plejehjem se en værdi i at få en eller flere af deres aktiviteter dokumenteret, for deres beboere og personale?
 2. Kan man udforme en aktivitetsanalyse, der kan bruges af plejepersonale, terapeuter, ledere samt frivillige til at vurdere en aktivitets potentiale lokalt?
 
 #### Metode
