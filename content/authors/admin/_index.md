@@ -76,7 +76,7 @@ user_groups:
 
 #### Formål: Svare på disse to spørgsmål
 
-1. Kan de deltagende plejehjem se en værdi i at få en eller flere af deres aktiviteter dokumenteret, for deres beboere og personale?
+1. Kan de deltagende plejehjem se en værdi i at få en eller flere af deres aktiviteter dokumenteret?
 2. Kan man udforme en aktivitetsanalyse, der kan bruges af plejepersonale, terapeuter, ledere samt frivillige til at vurdere en aktivitets potentiale lokalt?
 
 #### Metode
@@ -99,8 +99,6 @@ Der laves aftaler om besøg og deltagelse i 1-2 aktiviteter på 3 forskellige pl
 
 #### Fremgangsmåde på de deltagende plejehjem
 
-Nedeenstående er kun et forslag og tilrettelægges i samråd med det enkelte plejehjem.
-
 1. Kort indledende besøg, hvor projektet fremlægges - kan konbineres med næste punkt.
 2. Jeg deltager i valgt aktivitet og får information om formål og udbytte for deltagerne.
 3. Jeg udarbejder en aktivitetsanalyse af valgt aktivitet.
@@ -108,7 +106,7 @@ Nedeenstående er kun et forslag og tilrettelægges i samråd med det enkelte pl
 
 #### Databeskytelse og tavshedspligt
 
-Det er vigtigt at understrege at der ikke publiceres noget om de deltagende plejehjem, beboerne eller aktiviteterne.
+Det er vigtigt at understrege, at der ikke publiceres noget om de deltagende plejehjem, beboerne eller aktiviteterne.
 Pilotprojektets data bruges udelukkende til at vurdere, om der er grundlag for at gå videre med projektet.
 
 #### Tidsplan
@@ -122,4 +120,4 @@ Pilotprojektet søges gennemført i første halvår, 2020.
 
 #### Evaluering af pilotprojekt
 
-Pilotprojektets resultater, i form af aktivitetsanalyser samt svar på de to spørgsmål, evalueres både med de deltagende plejehjem, samt externe interessenter, ex. en sosuskole og ergoterapeut-studerende. Resultatet af evalueringen publiceres på denne side.
+Pilotprojektets resultater, i form af aktivitetsanalyser samt svar på de to spørgsmål, evalueres både med de deltagende plejehjem, samt eksterne interessenter. Resultatet af evalueringen publiceres på denne side.
