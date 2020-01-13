@@ -111,14 +111,14 @@ Nedeenstående er kun et forslag og tilrettelægges i samråd med det enkelte pl
 Det er vigtigt at understrege at der ikke publiceres noget om de deltagende plejehjem, beboerne eller aktiviteterne.
 Pilotprojektets data bruges udelukkende til at vurdere, om der er grundlag for at gå videre med projektet.
 
-#### Tidsplan og status
+#### Tidsplan
 
 Pilotprojektet søges gennemført i første halvår, 2020.
 
-##### Status
+#### Status
 
-**9/1 2020** 3 plejehjem kontaktet for deltagelse i projektet.
-**10/1 2020** Første besøg og deltagelse i aktivitet gennemført. Besøges igen d. 20/1.
+9/1 2020 - 3 plejehjem kontaktet for deltagelse i projektet.
+10/1 2020 - Første besøg og deltagelse i aktivitet gennemført. Besøges igen d. 20/1.
 
 #### Evaluering af pilotprojekt
 
