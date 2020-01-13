@@ -1,6 +1,6 @@
 ---
 # Display name
-name: Pilotprojektets indhold
+name: Pilotprojektet
 avatar_image: ""
 # Username (this should match the folder name)
 authors:
