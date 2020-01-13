@@ -67,4 +67,4 @@ Formålet er at dele viden og erfaring om aktiviteters potentiale, for at øge t
 
 Er det realistisk? Det skal et pilotprojekt i 2020 svare på.
 
-Aktivitetsbuffet.dk er et privatfinansieret, ikke-kommercielt projekt, startet af en nysgerrig [Ergoterapeut](#hvemstaarbag "Hvem står bag?").
+Aktivitetsbuffet.dk er et privatfinansieret, ikke-kommercielt projekt, startet af en [Ergoterapeut](#hvemstaarbag "Hvem står bag?").
