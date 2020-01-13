@@ -113,12 +113,12 @@ Pilotprojektets data bruges udelukkende til at vurdere, om der er grundlag for a
 
 #### Tidsplan og status
 
-Pilotprojektet søges gennemført i første halvår, 2020
+Pilotprojektet søges gennemført i første halvår, 2020.
 
 ##### Status
 
-9/1 2020: 3 plejehjem kontaktet for deltagelse i projektet.
-10/1 2020: Første besøg og deltagelse i aktivitet gennemført. Besøges igen d. 20/1.
+**9/1 2020** 3 plejehjem kontaktet for deltagelse i projektet.
+**10/1 2020** Første besøg og deltagelse i aktivitet gennemført. Besøges igen d. 20/1.
 
 #### Evaluering af pilotprojekt
 
