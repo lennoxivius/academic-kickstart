@@ -15,7 +15,7 @@
 - id: next
   translation: Sau
 - id: figure
-  translation: 'Figure %d:'
+  translation: "Figure %d:"
 - id: btn_preprint
   translation: Bản Thảo
 - id: btn_pdf
@@ -123,8 +123,8 @@
 - id: 404_recommendations
   translation: Có thể bạn đang tìm những trang này
 - id: cookie_message
-  translation: This website uses cookies to ensure you get the best experience on our website.
+  translation: Denne hjemmeside bruger cookies for at sikre dig den bedste oplevelse.
 - id: cookie_dismiss
-  translation: Got it!
+  translation: OK!
 - id: cookie_learn
-  translation: Learn more
+  translation: Læs mere

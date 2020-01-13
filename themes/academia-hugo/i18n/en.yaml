@@ -213,10 +213,10 @@
 # Cookie consent
 
 - id: cookie_message
-  translation: This website uses cookies to ensure you get the best experience on our website.
+  translation: Denne side benytter cookies for at sikre den bedste oplevelse.
 
 - id: cookie_dismiss
-  translation: Got it!
+  translation: Accepter
 
 - id: cookie_learn
-  translation: Learn more
+  translation: Læs mere
