@@ -99,10 +99,10 @@ Der laves aftaler om besøg og deltagelse i 1-2 aktiviteter på 3 forskellige pl
 
 #### Fremgangsmåde på de deltagende plejehjem
 
-1. Kort indledende besøg, hvor projektet fremlægges - kan konbineres med næste punkt.
+1. Kort indledende besøg, hvor projektet fremlægges - kan kombineres med næste punkt.
 2. Jeg deltager i valgt aktivitet og får information om formål og udbytte for deltagerne.
 3. Jeg udarbejder en aktivitetsanalyse af valgt aktivitet.
-4. Vi mødes igen, hvor i vurderer om aktivitetsanalysen passer med jeres opfattelse af aktiviteten og om den kan bruges lokalt.
+4. Vi mødes igen, hvor I vurderer om aktivitetsanalysen passer med jeres opfattelse af aktiviteten og om den kan bruges lokalt.
 
 #### Databeskytelse og tavshedspligt
 
