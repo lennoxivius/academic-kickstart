@@ -16,7 +16,7 @@ baseURL = "https://aktivitetsbuffet.dk/"
 copyright = "&copy; Aktivitetsbuffet.dk {year}"
 
 # Enable analytics by entering your Google Analytics tracking ID
-googleAnalytics = "UA-67192831-1"
+googleAnalytics = "UA-156187459-1"
 
 # Enable comments by entering your Disqus shortname
 disqusShortname = ""
