@@ -117,8 +117,9 @@ Pilotprojektet søges gennemført i første halvår, 2020.
 
 9/1 2020 - 3 plejehjem kontaktet for deltagelse i projektet.
 10/1 2020 - Første besøg og deltagelse i aktivitet gennemført.
-20/1 2020 - Andet besøg gennemført. Data indsamling gennemført på første plejehjem.
-28/1 2020 - første besøg på andet plejehjem planlagt.
+20/1 2020 - Andet besøg gennemført med feedback
+20/1 2020 - Data indsamling færdig på første plejehjem
+28/1 2020 - Første besøg på andet plejehjem gennemført.
 
 #### Evaluering af pilotprojekt
 
