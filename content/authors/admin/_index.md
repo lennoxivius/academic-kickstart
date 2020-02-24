@@ -125,6 +125,8 @@ Pilotprojektet søges gennemført i første halvår, 2020.
 
 31/1 2020 - 2 ud af 3 kontaktede plejehjem har sagt "ja" til at deltage i piloprojektet.
 
+24/2 2020 - første udgave af aktivitetsanalyse, der kan bruges på alle plejehjem færdig.
+
 #### Evaluering af pilotprojekt
 
 Pilotprojektets resultater, i form af aktivitetsanalyser samt svar på de to spørgsmål, evalueres både med de deltagende plejehjem, samt eksterne interessenter. Resultatet af evalueringen publiceres på denne side.
