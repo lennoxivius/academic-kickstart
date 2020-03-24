@@ -61,6 +61,8 @@ label = "Kontakt"
 
 +++## Velkommen til **Aktivitetsbuffet.dk!**
 
+** update 10 marts, projektet holder pause for alle udgående aktiviteter pga. situationen med Covid-19 i Danmark**
+
 Målet er at skabe en hjemmeside med beskrivelser og aktivitetsanalyser af et bredt udvalg af aktiviteter som de foregår på de danske plejehjem.
 
 Formålet er at dele viden og erfaring om aktiviteters potentiale, for at øge trivsel og glæde i hverdagen for både personale og beboere.
